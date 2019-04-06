@@ -62,7 +62,7 @@ It outputs the following two images (Stored in the **Visualization** folder):
 98% of the data is trained using a Recurrent Neural Network with 100 Long Short-Term Memory Units. 
 #### Neural Network Model
 
-![model](https://github.com/VikramShenoy97/Twitter-Sentiment-Analysis/blob/master/Saved_FIles/model.png)
+![model](https://github.com/VikramShenoy97/Twitter-Sentiment-Analysis/blob/master/Saved_Files/model.png)
 
 Run the script *train.py* in the terminal as follows.
 
